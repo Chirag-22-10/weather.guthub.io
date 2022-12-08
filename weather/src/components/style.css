@@ -1,0 +1,35 @@
+.box{
+    top: 169px;
+    position: relative;
+    width: 50%;
+    left: 26%;
+    background-image: url("./images/cloud2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 6px;
+}
+.heading{
+    padding-top: 25px;
+}
+.tempmin{
+    padding-bottom:25px;
+}
+body{
+    color:#fff;
+    background-color: aliceblue;
+}
+.InputField{
+    border-radius: 11px;
+    padding: 8px;
+    text-align: center;
+}
+h1{
+    font-size: 20px;
+}
+h2{
+    font-size: 15px;
+}
+p{
+    font-size:14px;
+}
