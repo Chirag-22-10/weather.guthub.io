@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/weather.guthub.io/static/css/main.1c49ea9f.css",
+    "main.js": "/weather.guthub.io/static/js/main.50968f20.js",
+    "static/js/787.13d76ca7.chunk.js": "/weather.guthub.io/static/js/787.13d76ca7.chunk.js",
+    "static/media/cloud2.jpg": "/weather.guthub.io/static/media/cloud2.7f936fedbc4ab7b50c97.jpg",
+    "index.html": "/weather.guthub.io/index.html",
+    "main.1c49ea9f.css.map": "/weather.guthub.io/static/css/main.1c49ea9f.css.map",
+    "main.50968f20.js.map": "/weather.guthub.io/static/js/main.50968f20.js.map",
+    "787.13d76ca7.chunk.js.map": "/weather.guthub.io/static/js/787.13d76ca7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c49ea9f.css",
+    "static/js/main.50968f20.js"
+  ]
+}
